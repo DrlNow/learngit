@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 add by Leon
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
+Git can merge branches.
